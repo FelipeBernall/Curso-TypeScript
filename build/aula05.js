@@ -1,0 +1,15 @@
+"use strict";
+let doisTipos;
+doisTipos = "Felipe";
+doisTipos = 21;
+let arrayDoisTipos = [];
+arrayDoisTipos.push("Felipe");
+arrayDoisTipos.push(12);
+let cursos = ["JavaScript", "TypeScript", "Java"];
+cursos.push("Python");
+let valores = [10, 20, 30];
+valores.push(40);
+console.log(doisTipos);
+console.log(arrayDoisTipos);
+console.log(cursos);
+console.log(valores);
